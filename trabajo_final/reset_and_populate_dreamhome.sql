@@ -1,4 +1,3 @@
-USE dreamhome;
 -- Eliminar datos existentes respetando claves foráneas
 SET FOREIGN_KEY_CHECKS = 0;
 TRUNCATE TABLE viewing;
