@@ -1,5 +1,4 @@
-CREATE DATABASE IF NOT EXISTS dreamhome;
-USE dreamhome;
+
 
 DROP TABLE IF EXISTS branch;
 
